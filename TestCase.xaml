@@ -72,10 +72,10 @@
     </sap:WorkflowViewStateService.ViewState>
     <uta:VerifyExpressionWithOperator AlternativeVerificationTitle="{x:Null}" KeepScreenshots="{x:Null}" OutputMessageFormat="{x:Null}" Result="{x:Null}" ScreenshotsPath="{x:Null}" ContinueOnFailure="True" DisplayName="Verify Expression with Operator" sap:VirtualizedContainerService.HintSize="388,613.3333333333334" sap2010:WorkflowViewState.IdRef="VerifyExpressionWithOperator_1" Operator="Equality" TakeScreenshotInCaseOfFailingAssertion="False" TakeScreenshotInCaseOfSucceedingAssertion="False">
       <uta:VerifyExpressionWithOperator.FirstExpression>
-        <InArgument x:TypeArguments="x:Int32">[1]</InArgument>
+        <InArgument x:TypeArguments="x:Int32">[2]</InArgument>
       </uta:VerifyExpressionWithOperator.FirstExpression>
       <uta:VerifyExpressionWithOperator.SecondExpression>
-        <InArgument x:TypeArguments="x:Int32">[1]</InArgument>
+        <InArgument x:TypeArguments="x:Int32">[2]</InArgument>
       </uta:VerifyExpressionWithOperator.SecondExpression>
     </uta:VerifyExpressionWithOperator>
   </Sequence>
